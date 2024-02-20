@@ -1,4 +1,5 @@
-# A simple project to kickstart your spring boot and aop journey
+# spring-aop
+A simple project to kickstart your spring boot and aop journey
 
 Note: In testing
 
